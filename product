@@ -1,0 +1,3 @@
+If a column that you want to sort contains both numbers and text (such as Product #15, Product #100, Product #200), it may not sort as expected.
+You can use a custom number format to display the number with text without changing the sorting behavior of the number.
+Put another way, you can change the way the number is shown without changing the number. For example, you can format cells that contain 15, 100, and 200 so that they appear in the worksheet as Product #15, Product #100, and Product #200.
